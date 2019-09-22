@@ -5,8 +5,6 @@ A basic social networking kind of website with functions like login, logout, cha
 Installation of WampServer will be required in order to run on local machine.
 
 ## **Built with**
-Frontend: HTML, CSS, Bootstrap
-
-Database: MySQL
-
-Backend: PHP
+- Frontend: HTML, CSS, Bootstrap
+- Database: MySQL
+- Backend: PHP
